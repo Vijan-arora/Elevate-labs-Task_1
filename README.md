@@ -15,7 +15,7 @@ This repository contains a **Simple Calculator program in Java** that performs b
 - Prevents division/modulus by zero
 - Loop allows multiple calculations until the user chooses to exit
 
-- #Key Concepts: OOP, methods, conditionals, loops, I/O.
+#Key Concepts: OOP, methods, conditionals, loops, I/O.
 
 ## Files
 - `Calculator.java` → main source code
